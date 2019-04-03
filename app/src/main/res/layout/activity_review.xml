@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/btn_writing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="writing"/>
+    <Button
+        android:id="@+id/btn_speaking"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="speak"/>
+    <Button
+    android:id="@+id/btn_translate"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="translate"/>
+    <Button
+        android:id="@+id/btn_reading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="reading"/>
+    <Button
+        android:id="@+id/btn_picture"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="picture"/>
+    <Button
+        android:id="@+id/btn_listen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="listen"/>
+
+
+</LinearLayout>
